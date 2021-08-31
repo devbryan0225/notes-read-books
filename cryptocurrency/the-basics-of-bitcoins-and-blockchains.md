@@ -19,4 +19,7 @@
 - message + digital signature + public key -> valid/invalid
 
 ## Part 4 Cryptocurrencies
-
+- Remove third party control/ admin through self generation public and private keys.
+- Remove central bookkeeper by duplication. Prevents tampering by redundancy and allowing nodes to come and go.
+- Solve transaction ordering by recording transactions in less frequenct batches or blocks. Allows time to agree on ordering of transaction blocks.
+- The transaction in a block is confirmed with each addition of chained block.
