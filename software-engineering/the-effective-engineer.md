@@ -15,3 +15,11 @@ Use leverages to maximize effort and reduce time on results that matters
 - Daily effort is easier than weekly effort in forming habits
 - Reduce procrastination by linking your task to a cue
 - Re-prioritize often, have a scheduled system that works for you
+
+## Chapter 4
+- move fast to learn fast
+- setup continuous development
+- to help learn quickly what works and what don't
+- and time saving tools
+- spend less time on low impact tasks and human errors
+
