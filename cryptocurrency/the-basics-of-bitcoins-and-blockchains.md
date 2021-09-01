@@ -23,3 +23,10 @@
 - Remove central bookkeeper by duplication. Prevents tampering by redundancy and allowing nodes to come and go.
 - Solve transaction ordering by recording transactions in less frequenct batches or blocks. Allows time to agree on ordering of transaction blocks.
 - The transaction in a block is confirmed with each addition of chained block.
+- mining: when hash is not less than target, computer has to update nonce field and rehash until it meets the target.
+- blockchains are tamper-evident since each block hash based on the previous block hash. 'immutable'
+- long chain rule ensure new blocks are created on long chains. retailers are advised to wait for their block to be buried deep.
+- Proof of work, block creators meet hash target by manipulating nonce values.
+- each transaction records input outputs amount.
+- decentralised yet software is mainly bitoin core and group mining pools.
+- bitcoin is earned through self block rewards or transaction fees, expecting transaction to replace block rewards in the future. 
