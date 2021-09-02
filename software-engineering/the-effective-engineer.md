@@ -16,7 +16,7 @@ Use leverages to maximize effort and reduce time on results that matters
 - Reduce procrastination by linking your task to a cue
 - Re-prioritize often, have a scheduled system that works for you
 
-## Chapter 4
+## Chapter 4 Move Fast to Learn Fast
 - move fast to learn fast
 - setup continuous development
 - to help learn quickly what works and what don't
