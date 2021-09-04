@@ -28,5 +28,13 @@
 - long chain rule ensure new blocks are created on long chains. retailers are advised to wait for their block to be buried deep.
 - Proof of work, block creators meet hash target by manipulating nonce values.
 - each transaction records input outputs amount.
+### Bitcoin
 - decentralised yet software is mainly bitoin core and group mining pools.
 - bitcoin is earned through self block rewards or transaction fees, expecting transaction to replace block rewards in the future. 
+### Wallet
+- the wallet doesn't store balances, instead it stores transactions
+- an ethereum node contains pieces of code (smart contract) that is invoked by transaction and ledgers updated with the results
+- does proof-of-stake instead of proof-of-work (calculation opportunity proportional to coins owned)
+- transaction fees differs in transaction type
+- gas price * amount used
+- block size based on computational complexity
