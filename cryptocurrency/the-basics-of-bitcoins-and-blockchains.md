@@ -38,9 +38,9 @@
 - transaction fees differs in transaction type
 - gas price * amount used
 - block size based on computational complexity
-Eth blocks are based on gas limits, max of 8 mil gas
-Uncles instead of orphans
-Ethereum VM to do decentralized calculations, Swarm to store and receive data, Whisper to send and receive encrypted messages
+- Eth blocks are based on gas limits, max of 8 mil gas
+- Uncles instead of orphans
+- Ethereum VM to do decentralized calculations, Swarm to store and receive data, Whisper to send and receive encrypted messages
 
 Smart contracts are short programs uploaded onto the blockchain.
 Smart contract languages like solidity, serpent, lisp compiles and runs on ethereum vm.
