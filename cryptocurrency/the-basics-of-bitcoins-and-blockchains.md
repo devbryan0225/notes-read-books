@@ -38,3 +38,43 @@
 - transaction fees differs in transaction type
 - gas price * amount used
 - block size based on computational complexity
+Eth blocks are based on gas limits, max of 8 mil gas
+Uncles instead of orphans
+Ethereum VM to do decentralized calculations, Swarm to store and receive data, Whisper to send and receive encrypted messages
+
+Smart contracts are short programs uploaded onto the blockchain.
+Smart contract languages like solidity, serpent, lisp compiles and runs on ethereum vm.
+Ethereum software include geth, eth and pyethapp.
+Ethereum enterprise alliance, develop roadmap for enterprise features and requirements, apply industry use case.
+Forking codebase creates altcoins, leading to innovation.
+Fork live blockchain, or chainsplit, by changing protocol rules, and successful when adopted by enough participants. Participants have shared history of balance on both ledgers.
+
+Soft fork, blocks by participants who hasn't upgrade still valid.
+
+Digital tokens
+Blockchain native tokens, asset backed tokens, utility tokens, security tokens (backed by assets)
+Erc 20 is utility tokens that can be spent on goods and services. A claim of service provided by the issuer.
+Asset backed tokens - depository tokens, title tokens, contract tokens.
+Ex. Represent gold bought at a company.
+Hard to fake, relieve manual effort passing documents, and p2p system allows trading on exchange over self hosting.
+
+Blockchain technology
+Permissionless meaning create blocks or be bookkeeper without needing permission from authority.
+Examples of permissiones blockchain are corda, hyperledger fabric and quorum. No incentive or proof of work needed.
+Common concepts in blockchain technologies: database, broadcast/replication, peer to peer, cryptographic methods.
+
+Private blockchains
+Duplicate data such as invoices and having to update copies once paid.
+Corda enable legal contacts to be managed and synchronized across mutually untrusting businesses.
+
+ICO
+token sales
+Funders pays in cryptocurrency in exchange for security or utility tokens.
+Tokens deemed to be securities will only hold private sales to accredited investors.
+Else it will start off in private sales, pre sales and finally public offering.
+Investors look to own the product or service, some wants to resell at higher price once token is available on exchange.
+
+Investing
+Pricing
+Token claim on underlying asset will have price based on that asset.
+Buy/sell at a price when someone has agreed on that price.
